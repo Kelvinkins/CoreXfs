@@ -1,0 +1,6 @@
+C:\Users\Kingsley Samuel\source\repos\CoreXfs\CoreXfs\obj\Debug\CoreXfs.csprojAssemblyReference.cache
+C:\Users\Kingsley Samuel\source\repos\CoreXfs\CoreXfs\obj\Debug\CoreXfs.csproj.CoreCompileInputs.cache
+C:\Users\Kingsley Samuel\source\repos\CoreXfs\CoreXfs\bin\Debug\CoreXfs.dll
+C:\Users\Kingsley Samuel\source\repos\CoreXfs\CoreXfs\bin\Debug\CoreXfs.pdb
+C:\Users\Kingsley Samuel\source\repos\CoreXfs\CoreXfs\obj\Debug\CoreXfs.dll
+C:\Users\Kingsley Samuel\source\repos\CoreXfs\CoreXfs\obj\Debug\CoreXfs.pdb
